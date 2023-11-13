@@ -9,7 +9,6 @@ public class DistributoreException extends Exception {
 
 	public DistributoreException(String message) {
 		super(message);
-		// TODO Auto-generated constructor stub
 	}
 	
 	
